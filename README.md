@@ -48,7 +48,33 @@ in home assistant search integration **mqtt**  points towards **aedes**
 
 ![immagine](https://user-images.githubusercontent.com/68069659/105638263-064e2780-5e72-11eb-86f5-92418370e904.png)
 
-To increase the security of your home automation, [mattiols reverse proxy](https://github.com/andrea-mattioli/mattiols_hassio_repository/tree/master/mattiols_reverse_proxy) is strongly recommended. this guy did a great job.
+To increase the security of your home automation, [mattiols reverse proxy](https://github.com/andrea-mattioli/mattiols_hassio_repository/tree/master/mattiols_reverse_proxy) is 
+
+strongly recommended. this guy did a great job.
+
+# step 5: your device in google home. Easy and free!
+
+![immagine](https://user-images.githubusercontent.com/68069659/105638974-04866300-5e76-11eb-856d-86ea9831e80a.png)
+
+install node [googlehome](https://flows.nodered.org/node/node-red-contrib-googlehome) and fllow this [guide](https://googlehome.hardill.me.uk/docs) to add your devices in google 
+
+home:
+
+**light**
+
+![immagine](https://user-images.githubusercontent.com/68069659/105639242-5bd90300-5e77-11eb-9b0b-a6e76de60ee6.png)
+
+this is the flow to control your light. 
+
+![immagine](https://user-images.githubusercontent.com/68069659/105639391-647e0900-5e78-11eb-9a60-645298b44ec6.png)
+
+[here](https://github.com/william89731/passion-for-home-automation/blob/main/flows.json) you will find the code
+
+**thermostat**
+
+**smartplug**
+
+
 
 
 
