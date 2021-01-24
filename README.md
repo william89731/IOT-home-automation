@@ -14,7 +14,7 @@ our advice is to keep the "hot" spots separate. many times tap restart home assi
 
 order; in my case i installed home assistant in a [raspberry p4 +](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/), but you can install home assitant with 
 
-[proxmox os]() o [hyper V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview). read [here](https://www.home-assistant.io/hassio/installation/) for more information. 
+[ProxMox os](https://www.proxmox.com/en/proxmox-ve/get-started) or [Hyper V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview). read [here](https://www.home-assistant.io/hassio/installation/) for Hyper_V Installation of Home Assistant or [here](https://github.com/whiskerz007/proxmox_hassos_install) for ProxMox VM Installation. 
 
 # step 2: node red
 
@@ -22,7 +22,7 @@ order; in my case i installed home assistant in a [raspberry p4 +](https://www.r
 
 Install node red not as an addon, but as a separate installation from home assistant. you can install it in [windows](https://nodered.org/docs/getting-started/windows), 
 
-if you have a mini pc, or with [proxmox]().
+if you have a mini pc, or with [proxmox](https://nodered.org/docs/getting-started/local).
 
 # step 3: zigbee2mqtt
 
@@ -30,7 +30,7 @@ if you have a mini pc, or with [proxmox]().
 
 Install [zigbee2mqtt](https://www.zigbee2mqtt.io/) outside home assistant. you can do it with [windows](https://www.zigbee2mqtt.io/information/windows.html) or with 
 
-[proxmox]().
+[proxmox](https://www.zigbee2mqtt.io/getting_started/running_zigbee2mqtt.html) in a LXC Container or in a VM .
 
 # step 4: broker mqtt
 
