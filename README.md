@@ -75,7 +75,6 @@ home:
 
 **light**
 
-
 ![20210127_222619](https://user-images.githubusercontent.com/68069659/106056680-381ff200-60ef-11eb-95ec-0f3a19025ecd.gif)
 
 this is the flow to control your light. 
@@ -84,7 +83,19 @@ this is the flow to control your light.
 
 [here](https://github.com/william89731/passion-for-home-automation/blob/main/flows.json) you will find the code
 
-**smartplug**
+**Outlet**
+
+![20210127_223617](https://user-images.githubusercontent.com/68069659/106057761-b7fa8c00-60f0-11eb-8ade-fba82faadd50.gif)
+
+switch your sockets from the google app
+
+![immagine](https://user-images.githubusercontent.com/68069659/106058354-6b638080-60f1-11eb-955f-df26e3b25905.png)
+
+do you want the code? look [here]()
+
+
+
+
 
 
 
