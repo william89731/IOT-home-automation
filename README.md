@@ -69,15 +69,14 @@ is strongly recommended. this guy did a great job.
 
 
 
-install node [googlehome](https://flows.nodered.org/node/node-red-contrib-googlehome) and fllow this 
-
-[guide](https://googlehome.hardill.me.uk/docs) to add your devices in google 
+install node [googlehome](https://flows.nodered.org/node/node-red-contrib-googlehome) and fllow this [guide](https://googlehome.hardill.me.uk/docs) to add your devices in google
 
 home:
 
 **light**
 
-![immagine](https://user-images.githubusercontent.com/68069659/105639242-5bd90300-5e77-11eb-9b0b-a6e76de60ee6.png)
+
+![20210127_222619](https://user-images.githubusercontent.com/68069659/106056680-381ff200-60ef-11eb-95ec-0f3a19025ecd.gif)
 
 this is the flow to control your light. 
 
