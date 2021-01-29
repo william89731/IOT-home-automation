@@ -69,11 +69,23 @@ Ihis is the flow to control your light:
 
 ![20210127_223617](https://user-images.githubusercontent.com/68069659/106057761-b7fa8c00-60f0-11eb-8ade-fba82faadd50.gif)
 
-Switch your sockets,nice:
+Switch your power outlet:
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106058354-6b638080-60f1-11eb-955f-df26e3b25905.png)
 
 do you want the code? look [here](https://github.com/william89731/passion-for-home-automation/blob/main/outlet.json)
+
+**Scene**
+
+![immagine](https://user-images.githubusercontent.com/68069659/106324701-e657a300-6279-11eb-8208-ed2d9caaa462.png)
+
+Here you can expand the possibilities of your home automation by controlling your flows with the voice commands of google assistant:
+
+![immagine](https://user-images.githubusercontent.com/68069659/106324866-2cad0200-627a-11eb-8fa9-574cd1b20903.png)
+
+code [here](https://github.com/william89731/passion-for-home-automation/blob/main/scena.json)
+
+
 
 **thermostat**
 
