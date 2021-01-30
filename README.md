@@ -38,6 +38,11 @@ In home assistant search integration **mqtt**  points towards **aedes**
 
 ![immagine](https://user-images.githubusercontent.com/68069659/105638095-2b8e6600-5e71-11eb-9e69-dc713c243405.png)
 
+In Proxmox VM/Container or same Linux Server use this guide
+
+[Ubuntu 18.04](https://github.com/william89731/passion-for-home-automation/blob/main/Install%20Mosquitto%20Broker%20Ubuntu%2018.pdf)
+
+
 # step 3b: reverse proxy (optional, but strongly recommended)
 
 ![immagine](https://user-images.githubusercontent.com/68069659/105638263-064e2780-5e72-11eb-86f5-92418370e904.png)
