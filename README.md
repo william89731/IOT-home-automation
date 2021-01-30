@@ -42,6 +42,7 @@ In Proxmox VM/Container or same Linux Server use this guide
 
 [Ubuntu 18.04](https://github.com/william89731/passion-for-home-automation/blob/main/Install%20Mosquitto%20Broker%20Ubuntu%2018.pdf)
 
+[Debian](https://github.com/william89731/passion-for-home-automation/blob/main/Install%20Mosquitto%20Broker%20in%20Debian%20Linux.pdf)
 
 # step 3b: reverse proxy (optional, but strongly recommended)
 
