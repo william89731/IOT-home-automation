@@ -88,14 +88,17 @@ code [here](https://github.com/william89731/passion-for-home-automation/blob/mai
 
 
 **thermostat**
+Using MQTT Node
 
+![immagine](https://github.com/william89731/passion-for-home-automation/blob/main/ClimateMQTT.jpg)
 
+code [here](https://github.com/william89731/passion-for-home-automation/blob/main/ClimateMQTT.json)
 
+Using Home Assistant Node
 
+![immagine](https://github.com/william89731/passion-for-home-automation/blob/main/Clima_HA_node.jpg)
 
-
-
-
+code [here](https://github.com/william89731/passion-for-home-automation/blob/main/Climate_HA_node.json)
 
 
 
