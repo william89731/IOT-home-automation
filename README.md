@@ -99,7 +99,7 @@ code [here](https://github.com/william89731/passion-for-home-automation/blob/mai
 
 Using **Home Assistant** Node:
 
-![immagine](https://github.com/william89731/passion-for-home-automation/blob/main/Clima_HA_node.jpg)
+![immagine](https://user-images.githubusercontent.com/68069659/106365577-c4702600-6336-11eb-8b2e-8f509796a9f5.png)
 
 code [here](https://github.com/william89731/passion-for-home-automation/blob/main/Climate_HA_node.json)
 
