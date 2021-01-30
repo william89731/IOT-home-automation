@@ -12,9 +12,7 @@ In this guide we will explain in a simple way how to have a safe and fun home au
 
 Install node red not as an addon, but as a separate installation from home assistant. you can install it in 
 
-[windows](https://nodered.org/docs/getting-started/windows), 
-
-if you have a mini pc, or with [proxmox](https://nodered.org/docs/getting-started/local).
+[windows](https://nodered.org/docs/getting-started/windows), if you have a mini pc, or with [proxmox](https://nodered.org/docs/getting-started/local).
 
 # step 2: zigbee2mqtt
 
@@ -28,9 +26,7 @@ Install [zigbee2mqtt](https://www.zigbee2mqtt.io/) outside home assistant. you c
 
 ![immagine](https://user-images.githubusercontent.com/68069659/105637829-be2e0580-5e6f-11eb-9cc6-87c9c9ac58f5.png)
 
-install the [aedes](https://flows.nodered.org/node/node-red-contrib-aedes) node, and configure the broker before creating 
-
-flows.
+install the [aedes](https://flows.nodered.org/node/node-red-contrib-aedes) node, and configure the broker before creating flows.
 
 ![immagine](https://user-images.githubusercontent.com/68069659/105637962-75c31780-5e70-11eb-85cd-b02a251ae9ef.png)
 
@@ -38,7 +34,7 @@ In home assistant search integration **mqtt**  points towards **aedes**
 
 ![immagine](https://user-images.githubusercontent.com/68069659/105638095-2b8e6600-5e71-11eb-9e69-dc713c243405.png)
 
-In Proxmox VM/Container or same Linux Server use this guide
+In Proxmox VM/Container or same Linux Server use this guide:
 
 [Ubuntu 18.04](https://github.com/william89731/passion-for-home-automation/blob/main/Install%20Mosquitto%20Broker%20Ubuntu%2018.pdf)
 
@@ -52,14 +48,12 @@ To increase the security of your home automation, [mattiols reverse proxy](https
 
 is strongly recommended. this guy did a great job.
 
-# step 5: your device in google home. Easy and free!
+# step 4: your device in google home. Easy and free!
 
 
 ![20210127_221534](https://user-images.githubusercontent.com/68069659/106055336-82a06f00-60ed-11eb-8ec9-6b4bb6917a9c.gif)
 
-Install node [googlehome](https://flows.nodered.org/node/node-red-contrib-googlehome) and fllow this [guide](https://googlehome.hardill.me.uk/docs) to add your devices in google 
-
-home:
+Install node [googlehome](https://flows.nodered.org/node/node-red-contrib-googlehome) and fllow this [guide](https://googlehome.hardill.me.uk/docs) to add your devices in google home:
 
 **light**
 
@@ -93,17 +87,17 @@ code [here](https://github.com/william89731/passion-for-home-automation/blob/mai
 
 
 
-**thermostat**
+**Thermostat**
 
 ![GIF-210130_183310](https://user-images.githubusercontent.com/48765677/106363859-6853d480-632b-11eb-9d88-8f34869c8478.gif)
 
-Using MQTT Node
+Using **MQTT** Node:
 
 ![immagine](https://github.com/william89731/passion-for-home-automation/blob/main/ClimateMQTT.jpg)
 
 code [here](https://github.com/william89731/passion-for-home-automation/blob/main/ClimateMQTT.json)
 
-Using Home Assistant Node
+Using **Home Assistant** Node:
 
 ![immagine](https://github.com/william89731/passion-for-home-automation/blob/main/Clima_HA_node.jpg)
 
