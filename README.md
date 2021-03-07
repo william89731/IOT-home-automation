@@ -57,9 +57,9 @@ Install node [googlehome](https://flows.nodered.org/node/node-red-contrib-google
 
 **light**
 
-![20210127_222619](https://user-images.githubusercontent.com/68069659/106056680-381ff200-60ef-11eb-95ec-0f3a19025ecd.gif)
+![Schermata da 2021-03-07 08-00-24](https://user-images.githubusercontent.com/68069659/110232013-54e3ec80-7f1b-11eb-936c-692e8bd0fcca.png)
 
-Ihis is the flow to control your light: 
+this is the flow to control your light: 
 
 ![immagine](https://user-images.githubusercontent.com/68069659/105639391-647e0900-5e78-11eb-9a60-645298b44ec6.png)
 
