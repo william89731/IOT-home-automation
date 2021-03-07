@@ -65,6 +65,10 @@ this is the flow to control your light:
 
 [Here](https://github.com/william89731/IOT-home-automation/blob/main/light.json) you will find the code
 
+than
+
+thanks to [mirco](https://github.com/seymourddr) from the group of [node red italia](https://t.me/noderedIT) for the suggestion of the dimmer with physical button
+
 **Outlet**
 
 ![20210127_223617](https://user-images.githubusercontent.com/68069659/106057761-b7fa8c00-60f0-11eb-8ade-fba82faadd50.gif)
