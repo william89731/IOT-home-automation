@@ -61,7 +61,8 @@ Install node [googlehome](https://flows.nodered.org/node/node-red-contrib-google
 
 this is the flow to control your light: 
 
-![Schermata da 2021-03-07 08-00-24](https://user-images.githubusercontent.com/68069659/110232013-54e3ec80-7f1b-11eb-936c-692e8bd0fcca.png)
+![Schermata da 2021-03-10 19-16-13](https://user-images.githubusercontent.com/68069659/110677325-550f1100-81d5-11eb-9e5c-cb4f9513e241.png)
+
 
 [Here](https://github.com/william89731/IOT-home-automation/blob/main/light.json) you will find the code
 
